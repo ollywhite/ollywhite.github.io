@@ -1,3 +1,21 @@
 .profile-pic {
 	max-width: 100%;
 }
+
+body {
+	background-color: #DFEBFF;
+	}
+
+.navbar{
+	background-color: #3F72CB;
+}
+.big-text{
+	font-size: 30px; 
+	color: white !important;
+}
+.jumbotron {
+  background-image: url("https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/15542234_1065859590210291_735580775637700992_n.jpg?oh=ca3e1f56f17b56ab883ab67bbb367bf8&oe=5945341C");
+  background-size: cover;
+}
+
+h3{color: navy;}
